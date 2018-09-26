@@ -1,0 +1,14 @@
+Package: demoproject
+Title: Demo package
+Version: 0.0.0.9004
+Author: "Dariusz Ratman" <dariusz.rtman@roche.com>
+Maintainer: "Dariusz Ratman" <dariusz.ratman@roche.com>
+Description: Demo project
+Depends: R (>= 3.4.3)
+Imports:
+    ggplot2
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+Suggests: testthat
