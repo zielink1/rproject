@@ -4,7 +4,7 @@
 # all local paths should be relative to your project's top level
 # directory.
 
-FROM devel-registry.rplatform.org:5000/rocker-rstudio-test:3.5.1_rp0.0.76
+FROM test-registry.rplatform.org:5000/rocker-rstudio-stable:3.4.3_rp0.0.70
 
 MAINTAINER RPlatform RPlatform "rp@roche.com"
 

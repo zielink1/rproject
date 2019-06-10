@@ -1,4 +1,4 @@
-# RP package template version >= 0.0.76
+# RP package template version >= 0.0.70
 
 # The base image makes use of the stable GRAN repository corresponding to image's R version as a source of packages. 
 # If you wish to install custom package versions from other source you'll need to
