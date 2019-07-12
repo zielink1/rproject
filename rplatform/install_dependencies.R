@@ -19,7 +19,8 @@ if (!require(parallel)) rp::installAndVerify(package = "parallel", requirement =
 options(Ncpus = parallel::detectCores())
 
 pkgs_to_install <- c(
-	"ggplot2","dplyr"
+	"ggplot2"
+  # Add your dependencies here
 )
 rp::installAndVerify(package = pkgs_to_install)
 
